@@ -1,0 +1,80 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 700px;
+    margin: auto;
+}
+
+body {
+    min-width: 500px;
+    background-color: #e0eeee;
+}
+.profileBody{
+    display:inline-block;
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 55px;
+    width: 72%;
+    height: 1200px;
+    padding-left: 10px;
+
+}
+h1{
+    color:red;
+}
+h1,h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-size: 1em;
+}
+h3{
+    font-size: 0.8em;
+}
+.email{
+    font-size: 0.8em;
+}
+.objective{                           /*To add css for bjective section */ 
+    font-size:70%;
+    
+}
+td{
+    font-size:  70%;
+    border: 2px solid #dddddd;
+    text-align: left;
+    padding: 4px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+.skills{
+    font-size:  12px;
+}
+.WorkEx{
+    font-size:  12px;
+}
+.experience{
+    font-size:  12px;
+}
+.projects{
+    font-size:  12px;
+}
+.personal_det tr:nth-child(even){
+    background-color: bisque;
+}
+.personal_det{
+    width: 100%;
+    border-collapse: collapse;
+}
+#certify{
+    font-size:  12px;
+}
+#place{
+    text-align: left;
+    font-size:  12px;
+}
+#sign{
+    text-align: right;
+    font-size:  12px;
+}
